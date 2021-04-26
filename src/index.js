@@ -1,5 +1,6 @@
 import './styles.css';
 import Handlebars from 'handlebars';
+import './item';
 
 const body = document.querySelector('body');
 console.log(body);
